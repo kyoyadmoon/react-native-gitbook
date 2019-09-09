@@ -1,4 +1,4 @@
-git checkout -b gh-pages
+git checkout gh-pages
 git build
 git add -f _book
 git commit -m 'created gh-pages'
