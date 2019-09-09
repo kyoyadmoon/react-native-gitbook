@@ -2,9 +2,9 @@
 ## React Native 是什麼？
 
 - 開發跨平台原生應用的 JavaScript 框架
-  - 用 JavaScript 開發  多個平台的原生應用
+  - 用 JavaScript 開發多個平台的原生應用
 - 2013 年夏天 Facebook 內部駭客松的 project
-- 2015 年 1 月 React.js Conf 發表， 2015 年 5 月正式發佈，當時只有 IOS 版本，2015 年 9 月 Android 才正式支援
+- 2015 年 1 月 React.js Conf 發表， 2015 年 5 月正式發佈，當時只有 iOS 版本，2015 年 9 月 Android 才正式支援
 - React 精神： Learn once, write anywhere:
 - Build mobile apps with React
   - iOS
@@ -17,6 +17,7 @@
 
 WebView -> Hybrid -> Convert to Native -> Totally Native
 
+- PhoneGap: [https://phonegap.com/](https://phonegap.com/)- HTML, CSS, JavaScript
 - Ionic: [https://ionicframework.com/](https://ionicframework.com/) - Cordova, AngularJS, Sass
   - 骨子裡還是網頁
   - 官方 market 有賣 theme、plugin
@@ -30,7 +31,6 @@ WebView -> Hybrid -> Convert to Native -> Totally Native
 - Xamarin: [https://www.xamarin.com/](https://www.xamarin.com/) - C#
   - 適合熟悉物件導向的程式語言開發者的垮平台解決方案
   - 分為社區版、專業版、企業版
-- PhoneGap: [https://phonegap.com/](https://phonegap.com/)- Html, CSS, JavaScript
 
 ## 特色
 
@@ -65,4 +65,3 @@ WebView -> Hybrid -> Convert to Native -> Totally Native
 
 - 官方頁面 ShowCase: [http://facebook.github.io/react-native/showcase.html](http://facebook.github.io/react-native/showcase.html)
 - 中國 ShowCase: [http://reactnative.cn/cases.html](http://reactnative.cn/cases.html)
-  
