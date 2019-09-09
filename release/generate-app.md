@@ -7,10 +7,13 @@
 `my-release-key`, `my-key-alias` 可以換成專案 App 相關名稱
 
 ```bash
+
+cd android/app
+
 keytool -genkey -v -keystore my-release-key.keystore -alias my-key-alias -keyalg RSA -keysize 2048 -validity 10000
 ```
 
-產生的 keystore 檔案需放置到 `/android/app/`
+確認產生的 keystore 檔案放置到 `/android/app/`
 
 ### 2. Setting up gradle variables
 

@@ -18,7 +18,7 @@
 
     - a) width
     - b) height
-    - c) width & height
+    - c) width 和 height
     - d) 都不需要
 
 4.  Component 內部和 UI 顯示相關的動態資料應該存放在？

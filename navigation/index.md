@@ -36,7 +36,7 @@ $ yarn add react-native-router-flux
       <Scene key="register" component={Register} title="Register" />
       <Scene key="home" component={Home} />
     </Stack>
-  </Router>;
+  </Router>
   ```
 
 3.  使用 Actions 處理畫面跳轉
