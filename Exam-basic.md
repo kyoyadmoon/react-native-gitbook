@@ -14,10 +14,10 @@
     - c) React 需要手動操作 DOM
     - d) 沒有差別
 
-3.  使用 Image component 顯示圖片時，需要給予哪些屬性資料才能正常顯示?
+3.  使用 Image component 顯示圖片時，需要給予哪些樣式屬性才能正常顯示?
 
-    - a) width
-    - b) height
+    - a) borderColor
+    - b) opacity
     - c) width 和 height
     - d) 都不需要
 
