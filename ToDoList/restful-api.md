@@ -81,7 +81,20 @@ method: 'get'
 - create `/api/users/ReactNative/tasks/create`
 
 ```text
-method 'post'
+method: 'post'
+headers: {
+  Accept: 'application/json',
+  'Content-Type': 'application/json'
+},
+```
+
+data
+
+```text
+{
+  title: inputValue,
+  completed: false
+}
 ```
 
 - delete `/api/task/${id}`
